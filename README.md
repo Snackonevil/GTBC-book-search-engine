@@ -25,7 +25,7 @@ Full stack MERN app using ApolloClient and GraphQL.
 
 ## Installation
 
-This app uses node (some modules )
+This app uses node (some modules are deprecated )
 
 ```
 npm run install
